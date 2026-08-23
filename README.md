@@ -22,10 +22,13 @@
 
 ## `PROJECTS`
 
-#**FIRE OR HIRE**
+### **FIRE OR HIRE**
 
 <a href="https://fireorhire.github.io/fireorhire/">
- <img width="426" height="52" alt="Screenshot_4" src="https://github.com/user-attachments/assets/006bf203-2ce7-4a67-8925-bb8e0df915ec" />
+ <img width="117" height="50" alt="e7580b53-9fca-4a52-9eb7-fcf2bfb454ec(1)" src="https://github.com/user-attachments/assets/9cc87ab7-96e6-425b-9fe3-d8a653b60ffd" />
+
+
+
 </a>
 
 ---

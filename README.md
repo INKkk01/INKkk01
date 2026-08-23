@@ -1,22 +1,13 @@
 <div align="center">
 
-<img width="1920" height="" alt="image" src="https://i.pinimg.com/736x/b4/c6/6a/b4c66ab4c5781453cee4236b5bce9324.jpg" class="rotated-image" style="transform: rotate(90deg);" />
+<img src="82d6ab3a62f723323cd36aa03e690ad1_720w.gif" width="3840">
 
 # ☠︎  INK  ☠︎
 
 ## ━━━━━━  ☽  ABOUT ME  ☾  ━━━━━━
 
+### 
 
-```
-╭──────────────────────────────────────────────╮
-│                                              │
-│   ☠  Developer                              │
-│   ✦  Student / Creator                      │
-│                                              │
-│                                              │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
 
 </div>
 

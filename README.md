@@ -39,7 +39,6 @@ I'm a beginner developer who enjoys creating new projects, with a particular int
 ## ━━━━━━  ☽  PROJECTS  ☾  ━━━━━━
 
 - [Fire Or Hire](https://fireorhire.github.io/fireorhire/)
-- 
 - [Cybergate](https://inkkk01.github.io/Cybergate/)
 
  
